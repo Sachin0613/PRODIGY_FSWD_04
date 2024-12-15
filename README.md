@@ -10,9 +10,9 @@ This project is a real-time chat application built using Socket.io and Node.js. 
 
 -**Multiple Chat Rooms**: Users can join different chat rooms to communicate with specific groups of people.
 
--**Isolated Conversations**: Chat rooms operate independently, ensuring that conversations in one room do not affect others.
+-**Conversations**: Chat rooms operate independently, ensuring that conversations in one room do not affect others.
 
--**Simultaneous Chats**: Enjoy the flexibility of participating in multiple conversations at the same time without any cross-room interference.
+-**Chats**: Enjoy the flexibility of participating in multiple conversations at the same time without any cross-room interference.
 
 
 # Output
